@@ -103,17 +103,17 @@
         "keybindings": [
             {
                 "command": "console.log.wrap",
-                "key": "ctrl+c c",
+                "key": "ctrl+shift+c c",
                 "when": "editorTextFocus"
             },
             {
                 "command": "console.log.wrap.prefix",
-                "key": "ctrl+c p",
+                "key": "ctrl+shift+c p",
                 "when": "editorTextFocus"
             },
             {
                 "command": "console.log.wrap.object",
-                "key": "ctrl+c o",
+                "key": "ctrl+shift+c o",
                 "when": "editorTextFocus"
             }
         ]
