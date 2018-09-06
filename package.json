@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/ergenekonyigit/vscode-wrap-console-log-lite"
     },
-    "version": "1.1.0",
+    "version": "1.2.0",
     "publisher": "ergenekonyigit",
     "icon": "images/icon.png",
     "engines": {
