@@ -12,13 +12,13 @@ Wraps the word near your cursor and replaces it as an argument for `console.log`
 *Insert console.log on the line below*
 
 ### Log
-* `Ctrl+C` + `C`
+* `Ctrl+Shift+C` + `C`
 * ![demo](images/screenshot_log.gif)
 
 ### Log with string prefix
-* `Ctrl+C` + `P`
+* `Ctrl+Shift+C` + `P`
 * ![demo](images/screenshot_prefix.gif)
 
 ### Log as object
-* `Ctrl+C` + `O`
+* `Ctrl+Shift+C` + `O`
 * ![demo](images/screenshot_object.gif)
